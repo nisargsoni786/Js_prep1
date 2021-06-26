@@ -1,0 +1,6 @@
+{
+    "env":{
+        "mongo_pass":"786Vkumar",
+        "jwt_key":"secret"
+    }
+}
